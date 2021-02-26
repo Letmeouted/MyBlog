@@ -2,7 +2,7 @@ window.ydoc_plugin_search_json = {
   "documents": [
     {
       "title": "ydoc",
-      "content": "This is home page of documents book.",
+      "content": "This is home page of documents book.Welcome to my website",
       "url": "\\documents\\index.html",
       "children": []
     },
